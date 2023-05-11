@@ -65,7 +65,7 @@ body {
   border-radius: 25px;
 }
 .main__search-bar:hover {
-  box-shadow: rgb(211, 211, 211);
+  box-shadow: rgb(211, 211, 211) 0.7px 0.7px 0.7px 0px;
 }
 .main__search-bar--magnifier {
   width: 30px;
